@@ -1,0 +1,24 @@
+<Universal ROBLOX Koala script Fratures>
+
+# Aimbot/Camlock
+- Mode --/ Keyboard Keybind, Toggle or hold
+- Smoothness
+- Prediction
+
+# Visual/Esp
+- Box
+- Health
+- Distance
+
+# Misc/Player modification
+- Fly
+- Walk speed
+- Jump power
+- Hitbox size changer
+- No-clip
+
+# Settings/Option
+- Configurations tab --/ You can save your configurationsa and Load whenever, and share with anyone.
+- GUI color
+
+  Still under-development, We will all more Features soon.
